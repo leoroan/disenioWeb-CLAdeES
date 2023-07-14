@@ -9704,3 +9704,11 @@ p,
   padding: 0;
   list-style-type: none;
 }
+
+
+#firstLetter {
+  font-size: 3rem !important;
+  font-weight: 600 !important;
+  color: black;
+  margin: 10px;
+}
